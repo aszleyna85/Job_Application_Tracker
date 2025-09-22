@@ -17,7 +17,7 @@ I wanted to analyze my own job search data to improve my strategy and showcase m
    - % Applications Viewed  
    - Avg. Response Time  
    - Platform Success Rate
-4. Built interactive visuals with slicers (status, site, date).
+4. Built interactive visuals with slicers (status, site, date), but there are no link for published work since I use this for my personal project
 
 ## 📈 Results
 - Identified LinkedIn as the platform with the highest response rate.
