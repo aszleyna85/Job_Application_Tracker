@@ -24,4 +24,7 @@ I wanted to analyze my own job search data to improve my strategy and showcase m
 - Found that applying within the first 48 hours increased chances of being viewed.
 - Dashboard made it easier to track progress and refine strategy.
 
+## 🖼️ Screenshots
+![Job Tracker Dashboard](./dashboard-screenshot.png)
+
 ---
