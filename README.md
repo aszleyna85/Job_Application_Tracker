@@ -25,6 +25,6 @@ I wanted to analyze my own job search data to improve my strategy and showcase m
 - Dashboard made it easier to track progress and refine strategy.
 
 ## 🖼️ Screenshots
-![Job Tracker Dashboard](./dashboard-screenshot.png)
+![Job Tracker Dashboard](https://github.com/aszleyna85/Job_Application_Tracker/blob/main/dashboard_screenshot.png)
 
 ---
